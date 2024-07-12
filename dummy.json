@@ -1,0 +1,19 @@
+{
+    "car":[
+        {
+            "model":"mahindra",
+            "name":"bolero",
+            "location":"pune"
+        },
+        {
+            "model":"scorpio",
+            "name":"bolero",
+            "location":"pune"
+        },
+        {
+            "model":"mahindra",
+            "name":"bolero",
+            "location":"pune"
+        }
+    ]
+}
